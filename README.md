@@ -14,4 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!-- [![Amit's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Amitstm)](https://github.com/anuraghazra/github-readme-stats) -->
+
+
 ![Amit Kumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amitstm&theme=dark&show_icons=true)
